@@ -1,0 +1,34 @@
+*{
+    font-size: arial, helvetica, sans-serif;
+    font-size: 20px;
+}
+
+body {
+    background-color: #836FFF;
+}
+
+h1{
+    font-size: 1.5em;
+    color: seashell;
+}
+
+img.lado {
+    float: right;
+
+}
+
+h2{
+    font-size: 1.5em;
+    color: slategrey;
+}
+
+
+
+main {
+
+    background-color: #00BFFF ;
+    width: 580px;
+    margin: auto;
+    padding:10px;
+    box-shadow:3px 3px 5px rgb(24, 19, 19) ;
+}
