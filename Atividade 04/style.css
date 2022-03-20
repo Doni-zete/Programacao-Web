@@ -1,0 +1,42 @@
+* {
+    font-size: arial, helvetica, sans-serif;
+    font-size: 20px;
+}
+
+table {
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+
+body {
+    background-color: white;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: rgb(14, 13, 12);
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.5em;
+    color: rgb(14, 13, 12);
+    text-align: center;
+}
+
+.img-lado {
+    height: 150px;
+}
+
+.img-lado:hover {
+    transform: scale(1.2, 1.2);
+    cursor: pointer;
+}
+
+main {
+    background-color: white;
+    width: 1200px;
+    margin: auto;
+    padding: 10px;
+}
