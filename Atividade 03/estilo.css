@@ -1,0 +1,23 @@
+table, th, td {
+  border:2px solid black;
+}
+
+.primeira-verde{
+  background-color: rgb(18, 238, 18);
+}
+
+.primeira-azul{
+  background-color: rgb(88, 151, 245);
+}
+
+.primeira-rosa{
+  background-color: rgb(255, 137, 235);
+}
+
+.primeira-laranja{
+  background-color: rgb(250, 100, 31);
+}
+
+.primeira-roxo{
+  background-color: rgb(173, 6, 159);
+}
